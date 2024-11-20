@@ -8,3 +8,5 @@ Exercises for Bjarne Stroustrup: The C++ Programming Language (4th Edition). Add
 Corrections, suggested improvements, and more exercises are welcome.
 
 This version of the exercises is dated May 12, 2013.
+
+^\[(\w+)\]
